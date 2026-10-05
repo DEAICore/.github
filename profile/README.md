@@ -1,6 +1,6 @@
 <div align="center">
 
-# DEAICore
+# ReN AI
 
 **The engineering home of [ReN AI](https://www.myrenx.ai/)**
 
@@ -19,7 +19,7 @@ Companies disclose a lot about their people, governance and impact, but it is sc
 Our core platform. ReN brings company disclosures, structured DEI and ESG metrics, and AI-assisted research together in one place:
 
 - **Company intelligence**: board and executive demographics, DEI programmes and governance, strategic priorities, policies, and environmental, social and governance data, all linked to the source documents
-- **Risk intelligence**: identifies and tracks DEI-related risk across companies and portfolios
+- **Risk intelligence**: identifies and tracks risks across companies and portfolios
 - **AI knowledge engine**: retrieval-augmented search and reasoning over a large library of corporate documents, with answers grounded in citations
 - **Portfolios and watchlists**: follow the companies you care about and compare them side by side
 
